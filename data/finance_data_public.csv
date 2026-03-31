@@ -1,0 +1,654 @@
+date_full,category,type,amount
+2024-09-03,Income / Transfers In,Income,10000.0
+2024-09-05,Transfers Out,Expense,-5.0
+2024-09-11,Income / Transfers In,Income,7.5
+2024-09-11,Transfers Out,Expense,-1081.25
+2024-09-16,Transfers Out,Expense,-44.45
+2024-09-17,Other,Expense,-10.25
+2024-09-18,Groceries,Expense,-11.5
+2024-09-18,Transport,Expense,-2.75
+2024-09-18,Transport,Expense,-2.75
+2024-09-19,Transfers Out,Expense,-39.36
+2024-09-20,Groceries,Expense,-166.32
+2024-09-23,Income / Transfers In,Income,24.02
+2024-09-23,Transport,Expense,-2.75
+2024-09-23,Transport,Expense,-2.75
+2024-09-23,Food & Dining,Expense,-23.48
+2024-09-23,Transfers Out,Expense,-34.38
+2024-09-23,Groceries,Expense,-29.82
+2024-09-24,Income / Transfers In,Income,41.22
+2024-09-24,Income / Transfers In,Expense,-125.0
+2024-09-25,Transport,Expense,-2.75
+2024-09-25,Transport,Expense,-2.75
+2024-09-27,Subscription,Expense,-0.99
+2024-09-30,Groceries,Expense,-26.03
+2024-09-30,Transport,Expense,-2.75
+2024-09-30,Transport,Expense,-2.75
+2024-09-30,Transport,Expense,-2.75
+2024-09-30,Food & Dining,Expense,-22.43
+2024-09-30,Groceries,Expense,-13.4
+2024-09-30,Transfers Out,Expense,-550.0
+2024-10-01,Groceries,Expense,-10.33
+2024-10-01,Groceries,Expense,-6.46
+2024-10-01,Income / Transfers In,Income,7.48
+2024-10-02,Transport,Expense,-2.75
+2024-10-02,Transport,Expense,-2.75
+2024-10-04,Transfers Out,Expense,-137.0
+2024-10-07,Income / Transfers In,Income,11.9
+2024-10-07,Transport,Expense,-2.75
+2024-10-08,Groceries,Expense,-49.58
+2024-10-09,Transport,Expense,-2.9
+2024-10-09,Transport,Expense,-2.75
+2024-10-09,Transport,Expense,-2.9
+2024-10-09,Transport,Expense,-2.75
+2024-10-10,Income / Transfers In,Income,275.63
+2024-10-10,Income / Transfers In,Income,64.26
+2024-10-10,Income / Transfers In,Income,57.02
+2024-10-10,Bills & Utilities,Expense,-148.99
+2024-10-15,Income / Transfers In,Income,64.77
+2024-10-15,Income / Transfers In,Income,15.34
+2024-10-15,Income / Transfers In,Income,64.79
+2024-10-15,Income / Transfers In,Income,64.78
+2024-10-16,Bills & Utilities,Expense,-110.14
+2024-10-17,Transfers Out,Expense,-30.0
+2024-10-17,Transfers Out,Expense,-10.0
+2024-10-21,Food & Dining,Expense,-10.89
+2024-10-21,Food & Dining,Expense,-10.89
+2024-10-21,Shopping,Expense,-51.06
+2024-10-24,Transfers Out,Expense,-149.93
+2024-10-24,Transport,Expense,-2.75
+2024-10-24,Transport,Expense,-2.9
+2024-10-24,Transport,Expense,-24.0
+2024-10-24,Income / Transfers In,Income,206.13
+2024-10-24,Transport,Expense,-2.75
+2024-10-28,Food & Dining,Expense,-19.51
+2024-10-28,Groceries,Expense,-4.13
+2024-10-28,Subscription,Expense,-0.99
+2024-10-30,Transport,Expense,-2.9
+2024-10-31,Transfers Out,Expense,-440.0
+2024-11-01,Transport,Expense,-2.75
+2024-11-01,Groceries,Expense,-12.87
+2024-11-04,Transport,Expense,-2.75
+2024-11-04,Groceries,Expense,-22.99
+2024-11-04,Food & Dining,Expense,-17.91
+2024-11-06,Transport,Expense,-2.75
+2024-11-06,Transport,Expense,-2.75
+2024-11-06,Groceries,Expense,-7.0
+2024-11-12,Income / Transfers In,Income,18.45
+2024-11-12,Income / Transfers In,Income,18.45
+2024-11-12,Income / Transfers In,Income,18.45
+2024-11-13,Bills & Utilities,Expense,-42.29
+2024-11-13,Transport,Expense,-2.75
+2024-11-13,Transport,Expense,-2.75
+2024-11-18,Transport,Expense,-2.75
+2024-11-18,Transport,Expense,-2.9
+2024-11-18,Transport,Expense,-2.75
+2024-11-18,Transport,Expense,-2.9
+2024-11-20,Transport,Expense,-2.75
+2024-11-20,Transport,Expense,-2.75
+2024-11-25,Groceries,Expense,-2.57
+2024-11-25,Shopping,Expense,-20.65
+2024-11-27,Transfers Out,Expense,-440.0
+2024-11-27,Subscription,Expense,-0.99
+2024-12-02,Income / Transfers In,Income,500.0
+2024-12-02,Groceries,Expense,-33.37
+2024-12-03,Transfers Out,Expense,-24.03
+2024-12-04,Transport,Expense,-2.75
+2024-12-04,Transport,Expense,-2.75
+2024-12-06,Transport,Expense,-2.75
+2024-12-06,Transport,Expense,-2.75
+2024-12-06,Food & Dining,Expense,-17.15
+2024-12-09,Transfers Out,Expense,-102.24
+2024-12-09,Transport,Expense,-2.75
+2024-12-09,Transport,Expense,-2.75
+2024-12-10,Groceries,Expense,-6.24
+2024-12-10,Groceries,Expense,-25.7
+2024-12-10,Transfers Out,Expense,-16.6
+2024-12-10,Transfers Out,Expense,-21.15
+2024-12-16,Transport,Expense,-2.75
+2024-12-16,Income / Transfers In,Income,4055.61
+2024-12-16,Income / Transfers In,Income,8.5
+2024-12-16,Income / Transfers In,Income,8.5
+2024-12-16,Transport,Expense,-2.75
+2024-12-16,Other,Expense,-10.0
+2024-12-16,Bank Fees,Expense,-15.0
+2024-12-17,Income / Transfers In,Income,8.5
+2024-12-17,Bills & Utilities,Expense,-51.45
+2024-12-18,Transport,Expense,-2.75
+2024-12-18,Transport,Expense,-2.75
+2024-12-18,Income / Transfers In,Income,4380.25
+2024-12-18,Food & Dining,Expense,-25.86
+2024-12-19,Education / Housing,Expense,-11880.0
+2024-12-23,Transport,Expense,-2.75
+2024-12-23,Shopping,Expense,-8.51
+2024-12-23,Transport,Expense,-122.21
+2024-12-23,Shopping,Expense,-43.39
+2024-12-23,Transport,Expense,-2.75
+2024-12-23,Groceries,Expense,-16.69
+2024-12-23,Groceries,Expense,-29.25
+2024-12-23,Transfers Out,Expense,-880.0
+2024-12-23,Other,Expense,-49.0
+2024-12-26,Subscription,Expense,-0.99
+2024-12-31,Transfers Out,Expense,-440.0
+2024-12-31,Income / Transfers In,Income,220.0
+2025-01-15,Income / Transfers In,Income,9.15
+2025-01-15,Income / Transfers In,Income,9.15
+2025-01-15,Income / Transfers In,Income,9.15
+2025-01-16,Groceries,Expense,-60.37
+2025-01-17,Bills & Utilities,Expense,-45.79
+2025-01-23,Groceries,Expense,-11.26
+2025-01-27,Transport,Expense,-27.98
+2025-01-27,Subscription,Expense,-0.99
+2025-01-27,Transport,Expense,-41.92
+2025-01-27,Transport,Expense,-3.0
+2025-01-27,Income / Transfers In,Income,210.0
+2025-01-27,Transport,Expense,-3.0
+2025-01-28,Transport,Expense,-3.0
+2025-01-31,Transfers Out,Expense,-550.0
+2025-02-03,Transport,Expense,-3.0
+2025-02-03,Transport,Expense,-3.0
+2025-02-03,Transport,Expense,-3.0
+2025-02-03,Food & Dining,Expense,-5.33
+2025-02-03,Transport,Expense,-3.0
+2025-02-03,Groceries,Expense,-10.29
+2025-02-03,Groceries,Expense,-11.62
+2025-02-04,Transport,Expense,-3.0
+2025-02-10,Transport,Expense,-3.0
+2025-02-10,Transport,Expense,-3.0
+2025-02-11,Transport,Expense,-3.0
+2025-02-11,Groceries,Expense,-4.08
+2025-02-11,Transport,Expense,-3.0
+2025-02-13,Income / Transfers In,Income,11.07
+2025-02-13,Transfers Out,Expense,-12.49
+2025-02-13,Income / Transfers In,Income,11.07
+2025-02-13,Income / Transfers In,Income,11.07
+2025-02-14,Subscription,Expense,-2.57
+2025-02-18,Transport,Expense,-3.0
+2025-02-18,Transport,Expense,-3.0
+2025-02-18,Bills & Utilities,Expense,-44.29
+2025-02-24,Transport,Expense,-3.0
+2025-02-24,Transport,Expense,-3.0
+2025-02-25,Transport,Expense,-3.0
+2025-02-25,Transport,Expense,-3.0
+2025-02-27,Other,Expense,-10.0
+2025-03-03,Food & Dining,Income,8.14
+2025-03-03,Transfers Out,Expense,-550.0
+2025-03-03,Food & Dining,Expense,-17.27
+2025-03-04,Transport,Expense,-3.0
+2025-03-04,Transport,Expense,-3.0
+2025-03-04,Transport,Expense,-3.0
+2025-03-10,Groceries,Expense,-7.8
+2025-03-10,Transfers Out,Expense,-12.49
+2025-03-10,Food & Dining,Expense,-9.59
+2025-03-11,Transport,Expense,-3.0
+2025-03-11,Transport,Expense,-3.0
+2025-03-12,Transport,Expense,-3.0
+2025-03-12,Food & Dining,Expense,-4.9
+2025-03-12,Transport,Expense,-3.0
+2025-03-12,Groceries,Expense,-4.48
+2025-03-13,Food & Dining,Expense,-9.05
+2025-03-14,Subscription,Expense,-2.99
+2025-03-14,Groceries,Expense,-15.14
+2025-03-17,Groceries,Expense,-3.83
+2025-03-17,Transport,Expense,-3.0
+2025-03-17,Transport,Expense,-3.0
+2025-03-17,Income / Transfers In,Income,11.33
+2025-03-17,Income / Transfers In,Income,11.33
+2025-03-17,Income / Transfers In,Income,11.33
+2025-03-17,Transport,Expense,-3.0
+2025-03-18,Other,Income,6191.24
+2025-03-18,Bills & Utilities,Expense,-45.34
+2025-03-18,Bank Fees,Expense,-15.0
+2025-03-19,Bank Fees,Expense,-15.0
+2025-03-19,Income / Transfers In,Income,1840.35
+2025-03-25,Groceries,Expense,-7.51
+2025-03-25,Transport,Expense,-3.0
+2025-03-25,Transport,Expense,-3.0
+2025-03-26,Income / Transfers In,Income,3.8
+2025-03-26,Groceries,Expense,-11.45
+2025-03-31,Transfers Out,Expense,-550.0
+2025-03-31,Other,Expense,-5.28
+2025-03-31,Transfers Out,Expense,-25.44
+2025-03-31,Groceries,Expense,-5.6
+2025-03-31,Transport,Expense,-2.9
+2025-03-31,Transport,Expense,-2.9
+2025-03-31,Transport,Expense,-3.0
+2025-03-31,Food & Dining,Expense,-11.2
+2025-04-04,Groceries,Income,0.31
+2025-04-04,Income / Transfers In,Income,3.0
+2025-04-07,Food & Dining,Expense,-12.01
+2025-04-08,Transport,Expense,-3.0
+2025-04-08,Transport,Expense,-3.0
+2025-04-09,Other,Expense,-63.96
+2025-04-14,Transport,Expense,-31.26
+2025-04-14,Subscription,Expense,-2.99
+2025-04-14,Transfers Out,Expense,-10.0
+2025-04-14,Other,Expense,-10.0
+2025-04-14,Income / Transfers In,Income,11.02
+2025-04-14,Transport,Expense,-29.37
+2025-04-15,Income / Transfers In,Income,1.0
+2025-04-15,Transport,Expense,-3.0
+2025-04-16,Groceries,Expense,-12.08
+2025-04-17,Other,Expense,-2.5
+2025-04-17,Transport,Expense,-12.97
+2025-04-17,Bills & Utilities,Expense,-44.11
+2025-04-18,Subscription,Expense,-68.58
+2025-04-18,Transport,Expense,-3.0
+2025-04-18,Transport,Expense,-3.0
+2025-04-21,Income / Transfers In,Income,2.0
+2025-04-21,Transport,Expense,-31.92
+2025-04-21,Transport,Expense,-3.0
+2025-04-21,Groceries,Expense,-8.39
+2025-04-21,Transport,Expense,-35.23
+2025-04-22,Transport,Expense,-3.0
+2025-04-22,Transport,Expense,-3.0
+2025-04-28,Transport,Expense,-33.94
+2025-04-28,Transport,Expense,-3.0
+2025-04-28,Transport,Expense,-3.0
+2025-04-28,Transport,Expense,-3.0
+2025-04-28,Transport,Expense,-2.9
+2025-04-28,Transport,Expense,-2.9
+2025-04-29,Transport,Expense,-3.0
+2025-04-29,Transport,Expense,-3.0
+2025-04-29,Transfers Out,Expense,-550.0
+2025-05-02,Groceries,Expense,-3.99
+2025-05-06,Transport,Expense,-3.0
+2025-05-06,Transport,Expense,-3.0
+2025-05-09,Food & Dining,Expense,-23.54
+2025-05-13,Food & Dining,Expense,-2.55
+2025-05-13,Transport,Expense,-3.0
+2025-05-13,Transfers Out,Expense,-11.0
+2025-05-14,Subscription,Expense,-2.99
+2025-05-15,Income / Transfers In,Income,11.8
+2025-05-15,Income / Transfers In,Income,11.8
+2025-05-15,Transport,Expense,-3.0
+2025-05-15,Transport,Expense,-3.0
+2025-05-16,Bills & Utilities,Expense,-47.2
+2025-05-16,Groceries,Expense,-22.0
+2025-05-16,Transport,Expense,-21.71
+2025-05-16,Groceries,Income,12.38
+2025-05-16,Groceries,Income,8.36
+2025-05-19,Other,Expense,-20.19
+2025-05-19,Other,Expense,-10.0
+2025-05-19,Transport,Expense,-3.0
+2025-05-19,Transport,Expense,-3.0
+2025-05-20,Income / Transfers In,Income,1.74
+2025-05-21,Transport,Expense,-3.0
+2025-05-21,Transport,Expense,-2.9
+2025-05-21,Transport,Expense,-2.9
+2025-05-21,Transport,Expense,-3.0
+2025-05-30,Transfers Out,Expense,-550.0
+2025-06-05,Income / Transfers In,Income,38.97
+2025-06-05,Transport,Expense,-10.0
+2025-06-09,Income / Transfers In,Income,47.54
+2025-06-09,Groceries,Expense,-15.21
+2025-06-16,Transport,Expense,-3.6
+2025-06-16,Food & Dining,Expense,-5.73
+2025-06-16,Subscription,Expense,-2.99
+2025-06-16,Transport,Expense,-3.6
+2025-06-16,Income / Transfers In,Income,13.16
+2025-06-16,Income / Transfers In,Income,3.39
+2025-06-16,Income / Transfers In,Income,13.16
+2025-06-17,Income / Transfers In,Income,2.52
+2025-06-17,Bills & Utilities,Expense,-52.67
+2025-06-18,Transfers Out,Expense,-2.66
+2025-06-20,Transport,Expense,-3.6
+2025-06-20,Food & Dining,Expense,-11.17
+2025-06-20,Transport,Expense,-3.6
+2025-06-24,Transport,Expense,-25.13
+2025-06-24,Transport,Expense,-3.6
+2025-06-24,Transport,Expense,-3.6
+2025-06-25,Food & Dining,Expense,-9.3
+2025-06-25,Food & Dining,Expense,-5.0
+2025-06-30,Other,Income,8092.48
+2025-06-30,Food & Dining,Expense,-10.65
+2025-06-30,Transfers Out,Expense,-550.0
+2025-06-30,Bank Fees,Expense,-15.0
+2025-07-03,Bills & Utilities,Expense,-460.0
+2025-07-07,Transport,Expense,-3.7
+2025-07-07,Transport,Expense,-3.7
+2025-07-07,Transport,Expense,-3.7
+2025-07-11,Income / Transfers In,Income,10.63
+2025-07-11,Income / Transfers In,Income,3.25
+2025-07-11,Food & Dining,Expense,-5.33
+2025-07-11,Food & Dining,Expense,-28.76
+2025-07-11,Food & Dining,Expense,-10.65
+2025-07-14,Subscription,Expense,-2.99
+2025-07-15,Income / Transfers In,Income,7.87
+2025-07-16,Income / Transfers In,Income,7.87
+2025-07-17,Bills & Utilities,Expense,-31.51
+2025-07-18,Income / Transfers In,Income,3.75
+2025-07-18,Transfers Out,Expense,-49.05
+2025-07-28,Other,Income,11428.57
+2025-07-28,Bank Fees,Expense,-15.0
+2025-07-29,Education / Housing,Expense,-12610.0
+2025-08-01,Transfers Out,Expense,-8.0
+2025-08-04,Food & Dining,Expense,-11.72
+2025-08-11,Transport,Expense,-3.7
+2025-08-12,Income / Transfers In,Income,129.99
+2025-08-13,Education / Housing,Expense,-259.99
+2025-08-14,Income / Transfers In,Income,62.5
+2025-08-14,Income / Transfers In,Income,15.3
+2025-08-14,Income / Transfers In,Income,13.81
+2025-08-14,Subscription,Expense,-2.99
+2025-08-15,Bills & Utilities,Expense,-61.21
+2025-08-18,Income / Transfers In,Income,1.75
+2025-08-25,Transfers Out,Expense,-77.88
+2025-08-27,Transport,Expense,-27.8
+2025-08-27,Transport,Expense,-27.8
+2025-08-27,Transport,Expense,-3.0
+2025-08-27,Transport,Expense,-3.0
+2025-09-02,Transfers Out,Expense,-550.0
+2025-09-05,Transport,Expense,-3.0
+2025-09-05,Transport,Expense,-3.0
+2025-09-08,Groceries,Income,0.8
+2025-09-08,Transport,Expense,-3.0
+2025-09-08,Food & Dining,Expense,-5.33
+2025-09-08,Groceries,Expense,-8.64
+2025-09-11,Transport,Expense,-3.0
+2025-09-11,Transport,Expense,-3.0
+2025-09-12,Transport,Expense,-1.85
+2025-09-12,Transport,Expense,-1.85
+2025-09-12,Transport,Expense,-4.85
+2025-09-12,Transport,Expense,-2.95
+2025-09-12,Transport,Expense,-2.95
+2025-09-12,Transport,Expense,-7.65
+2025-09-12,Transport,Expense,-3.0
+2025-09-12,Transport,Expense,-3.0
+2025-09-15,Education / Housing,Expense,-50.0
+2025-09-15,Subscription,Expense,-2.99
+2025-09-15,Transport,Expense,-3.0
+2025-09-15,Income / Transfers In,Income,22.59
+2025-09-15,Income / Transfers In,Income,21.81
+2025-09-15,Transport,Expense,-3.0
+2025-09-16,Transport,Expense,-2.95
+2025-09-16,Transport,Expense,-3.7
+2025-09-16,Transport,Expense,-9.45
+2025-09-16,Transport,Expense,-12.75
+2025-09-16,Transport,Expense,-1.85
+2025-09-16,Transport,Expense,-4.85
+2025-09-16,Transport,Expense,-1.85
+2025-09-16,Transport,Expense,-1.85
+2025-09-17,Transport,Expense,-9.45
+2025-09-17,Transport,Expense,-2.95
+2025-09-17,Transport,Expense,-5.3
+2025-09-17,Transport,Expense,-9.45
+2025-09-17,Transport,Expense,-2.95
+2025-09-17,Transport,Expense,-2.95
+2025-09-18,Transport,Expense,-3.0
+2025-09-18,Transport,Expense,-2.95
+2025-09-18,Transport,Expense,-1.85
+2025-09-18,Transport,Expense,-9.45
+2025-09-18,Transport,Expense,-2.95
+2025-09-18,Transport,Expense,-1.85
+2025-09-18,Transport,Expense,-7.65
+2025-09-19,Food & Dining,Expense,-11.48
+2025-09-19,Transport,Expense,-3.0
+2025-09-19,Transport,Expense,-3.0
+2025-09-22,Transport,Expense,-3.0
+2025-09-22,Transport,Expense,-3.0
+2025-09-23,Transfers Out,Expense,-1100.0
+2025-09-23,Bills & Utilities,Expense,-90.39
+2025-09-23,Transport,Expense,-9.45
+2025-09-23,Transport,Expense,-5.3
+2025-09-23,Transport,Expense,-5.9
+2025-09-23,Transport,Expense,-9.45
+2025-09-23,Transport,Expense,-3.7
+2025-09-23,Transport,Expense,-2.95
+2025-09-25,Transport,Expense,-3.0
+2025-09-25,Transport,Expense,-3.7
+2025-09-25,Transport,Expense,-9.45
+2025-09-25,Transport,Expense,-7.65
+2025-09-25,Transport,Expense,-3.0
+2025-09-25,Transfers Out,Expense,-562.5
+2025-09-26,Transport,Expense,-1.85
+2025-09-26,Transport,Expense,-3.0
+2025-09-29,Other,Expense,-5.25
+2025-09-29,Income / Transfers In,Income,132.54
+2025-09-30,Transport,Expense,-3.7
+2025-09-30,Transport,Expense,-5.3
+2025-09-30,Transport,Expense,-9.45
+2025-09-30,Transport,Expense,-2.95
+2025-09-30,Transport,Expense,-2.95
+2025-09-30,Transport,Expense,-9.45
+2025-09-30,Transport,Expense,-5.3
+2025-10-01,Transfers Out,Expense,-14.99
+2025-10-01,Income / Transfers In,Income,4.0
+2025-10-03,Transport,Expense,-5.3
+2025-10-03,Transport,Expense,-9.45
+2025-10-03,Transport,Expense,-2.95
+2025-10-03,Transport,Expense,-2.95
+2025-10-03,Transport,Expense,-9.45
+2025-10-03,Transport,Expense,-5.3
+2025-10-06,Food & Dining,Expense,-4.88
+2025-10-06,Transport,Expense,-3.0
+2025-10-06,Transport,Expense,-3.0
+2025-10-06,Income / Transfers In,Income,28.41
+2025-10-06,Income / Transfers In,Income,30.0
+2025-10-07,Transport,Expense,-5.3
+2025-10-07,Transport,Expense,-9.45
+2025-10-07,Transport,Expense,-2.95
+2025-10-07,Transport,Expense,-2.95
+2025-10-07,Transport,Expense,-9.45
+2025-10-07,Transport,Expense,-5.3
+2025-10-08,Transport,Expense,-5.3
+2025-10-08,Transport,Expense,-9.45
+2025-10-08,Transport,Expense,-2.95
+2025-10-08,Transport,Expense,-5.3
+2025-10-08,Transport,Expense,-9.45
+2025-10-08,Transport,Expense,-2.95
+2025-10-09,Transfers Out,Expense,-29.3
+2025-10-10,Transport,Expense,-3.0
+2025-10-10,Transport,Expense,-3.0
+2025-10-10,Transport,Expense,-7.65
+2025-10-10,Transport,Expense,-2.95
+2025-10-10,Transport,Expense,-2.95
+2025-10-10,Transport,Expense,-9.45
+2025-10-10,Transport,Expense,-5.3
+2025-10-10,Income / Transfers In,Income,40.0
+2025-10-14,Food & Dining,Expense,-14.03
+2025-10-14,Transport,Expense,-3.0
+2025-10-14,Transport,Expense,-3.0
+2025-10-14,Subscription,Expense,-2.99
+2025-10-15,Transport,Expense,-5.3
+2025-10-15,Transport,Expense,-9.45
+2025-10-15,Transport,Expense,-2.95
+2025-10-15,Transport,Expense,-9.45
+2025-10-15,Transport,Expense,-5.3
+2025-10-15,Transport,Expense,-2.95
+2025-10-16,Transport,Expense,-5.3
+2025-10-16,Transport,Expense,-5.3
+2025-10-16,Transport,Expense,-9.45
+2025-10-16,Transport,Expense,-2.95
+2025-10-16,Transport,Expense,-9.45
+2025-10-17,Transport,Expense,-3.0
+2025-10-17,Transport,Expense,-3.0
+2025-10-20,Transport,Expense,-3.0
+2025-10-20,Transport,Expense,-3.0
+2025-10-21,Transport,Expense,-5.3
+2025-10-21,Transport,Expense,-9.45
+2025-10-21,Transport,Expense,-2.95
+2025-10-21,Transport,Expense,-2.95
+2025-10-21,Transport,Expense,-9.45
+2025-10-21,Transport,Expense,-5.3
+2025-10-22,Transport,Expense,-5.3
+2025-10-22,Transport,Expense,-9.45
+2025-10-22,Transport,Expense,-2.95
+2025-10-22,Transport,Expense,-2.95
+2025-10-22,Transport,Expense,-9.45
+2025-10-22,Transport,Expense,-5.3
+2025-10-27,Transport,Expense,-3.0
+2025-10-27,Transport,Expense,-3.0
+2025-10-27,Transport,Expense,-3.0
+2025-10-27,Transfers Out,Expense,-52.5
+2025-10-28,Transport,Expense,-2.95
+2025-10-28,Transport,Expense,-9.45
+2025-10-28,Transport,Expense,-2.95
+2025-10-28,Transport,Expense,-5.3
+2025-10-28,Transport,Expense,-5.3
+2025-10-28,Income / Transfers In,Income,812.5
+2025-10-28,Transport,Expense,-9.45
+2025-10-28,Income / Transfers In,Income,274.66
+2025-10-29,Transport,Expense,-5.3
+2025-10-29,Transport,Expense,-9.45
+2025-10-29,Transport,Expense,-2.95
+2025-10-29,Transport,Expense,-2.95
+2025-10-29,Transport,Expense,-5.3
+2025-10-29,Transport,Expense,-9.45
+2025-10-29,Transfers Out,Expense,-1.74
+2025-10-30,Transfers Out,Expense,-562.5
+2025-10-30,Groceries,Expense,-6.5
+2025-10-30,Transport,Expense,-5.3
+2025-10-30,Transport,Expense,-9.45
+2025-10-30,Transport,Expense,-9.45
+2025-10-30,Transport,Expense,-2.95
+2025-10-30,Transport,Expense,-5.3
+2025-10-30,Transport,Expense,-2.95
+2025-10-31,Food & Dining,Expense,-11.72
+2025-10-31,Transport,Expense,-3.0
+2025-10-31,Transport,Expense,-3.0
+2025-11-03,Transfers Out,Expense,-50.0
+2025-11-03,Transport,Expense,-3.0
+2025-11-04,Income / Transfers In,Income,11.45
+2025-11-04,Transport,Expense,-5.3
+2025-11-04,Transport,Expense,-2.95
+2025-11-04,Transport,Expense,-9.45
+2025-11-04,Transport,Expense,-2.95
+2025-11-04,Transport,Expense,-9.45
+2025-11-04,Transport,Expense,-5.3
+2025-11-05,Groceries,Expense,-14.17
+2025-11-06,Transport,Expense,-3.0
+2025-11-06,Transport,Expense,-3.0
+2025-11-07,Transport,Expense,-5.3
+2025-11-07,Transport,Expense,-9.45
+2025-11-07,Transport,Expense,-2.95
+2025-11-07,Transport,Expense,-7.65
+2025-11-07,Transport,Expense,-3.0
+2025-11-07,Transport,Expense,-3.0
+2025-11-07,Transfers Out,Expense,-2.29
+2025-11-10,Transfers Out,Expense,-90.75
+2025-11-10,Food & Dining,Expense,-5.11
+2025-11-10,Transport,Expense,-3.0
+2025-11-10,Transport,Expense,-3.0
+2025-11-12,Transport,Expense,-5.3
+2025-11-12,Income / Transfers In,Income,20.43
+2025-11-12,Income / Transfers In,Income,20.43
+2025-11-12,Transport,Expense,-5.3
+2025-11-12,Transport,Expense,-9.45
+2025-11-12,Transport,Expense,-2.95
+2025-11-12,Transport,Expense,-2.95
+2025-11-12,Transport,Expense,-9.45
+2025-11-12,Transfers Out,Expense,-18.97
+2025-11-13,Transport,Expense,-3.0
+2025-11-13,Transport,Expense,-3.0
+2025-11-13,Transfers Out,Expense,-18.37
+2025-11-13,Transfers Out,Expense,-2.03
+2025-11-14,Transport,Expense,-3.0
+2025-11-14,Transport,Expense,-3.0
+2025-11-14,Subscription,Expense,-2.99
+2025-11-14,Transport,Expense,-7.65
+2025-11-14,Transport,Expense,-9.45
+2025-11-14,Transport,Expense,-5.3
+2025-11-14,Transport,Expense,-2.95
+2025-11-17,Groceries,Expense,-23.17
+2025-11-17,Transport,Expense,-3.0
+2025-11-17,Transport,Expense,-3.0
+2025-11-18,Transport,Expense,-2.95
+2025-11-18,Transport,Expense,-5.3
+2025-11-18,Transport,Expense,-9.45
+2025-11-18,Transport,Expense,-2.95
+2025-11-18,Transport,Expense,-9.45
+2025-11-18,Transport,Expense,-5.3
+2025-11-20,Transfers Out,Expense,-12.0
+2025-11-21,Transport,Expense,-3.0
+2025-11-21,Transport,Expense,-3.0
+2025-11-21,Groceries,Expense,-5.89
+2025-11-24,Transport,Expense,-3.0
+2025-11-24,Transport,Expense,-3.0
+2025-11-24,Food & Dining,Expense,-13.85
+2025-11-25,Transport,Expense,-2.95
+2025-11-25,Transport,Expense,-9.45
+2025-11-25,Transport,Expense,-5.3
+2025-11-25,Transport,Expense,-2.95
+2025-11-25,Transport,Expense,-5.3
+2025-11-25,Transport,Expense,-9.45
+2025-11-26,Shopping,Expense,-14.05
+2025-11-26,Transport,Expense,-5.3
+2025-11-26,Transport,Expense,-9.45
+2025-11-26,Transport,Expense,-2.95
+2025-11-26,Transport,Expense,-7.65
+2025-11-26,Transport,Expense,-3.0
+2025-12-01,Transfers Out,Expense,-562.5
+2025-12-02,Transport,Expense,-5.3
+2025-12-02,Transport,Expense,-9.45
+2025-12-02,Transport,Expense,-2.95
+2025-12-02,Transport,Expense,-9.45
+2025-12-02,Transport,Expense,-2.95
+2025-12-02,Transport,Expense,-5.3
+2025-12-04,Transport,Expense,-3.0
+2025-12-04,Transport,Expense,-3.0
+2025-12-05,Food & Dining,Expense,-7.29
+2025-12-08,Transfers Out,Expense,-12.24
+2025-12-08,Transfers Out,Expense,-6.67
+2025-12-08,Transport,Expense,-3.0
+2025-12-08,Transport,Expense,-3.0
+2025-12-08,Groceries,Expense,-6.75
+2025-12-11,Transport,Expense,-3.0
+2025-12-11,Transport,Expense,-3.0
+2025-12-11,Groceries,Expense,-7.97
+2025-12-12,Transport,Expense,-3.0
+2025-12-12,Transport,Expense,-3.0
+2025-12-15,Subscription,Expense,-2.99
+2025-12-15,Food & Dining,Expense,-13.85
+2025-12-15,Transport,Expense,-3.0
+2025-12-15,Income / Transfers In,Income,18.25
+2025-12-15,Income / Transfers In,Income,18.25
+2025-12-15,Transport,Expense,-3.0
+2025-12-16,Bills & Utilities,Expense,-73.03
+2025-12-19,Income / Transfers In,Income,1999.0
+2025-12-19,Income / Transfers In,Income,1.0
+2025-12-22,Groceries,Expense,-28.2
+2025-12-22,Transport,Expense,-3.0
+2025-12-22,Education / Housing,Expense,-4305.0
+2025-12-22,Transport,Expense,-3.0
+2025-12-22,Transport,Expense,-3.0
+2025-12-23,Other,Expense,-95.0
+2025-12-23,Food & Dining,Expense,-14.1
+2026-01-14,Subscription,Expense,-2.99
+2026-01-20,Income / Transfers In,Income,17.23
+2026-01-20,Income / Transfers In,Income,17.23
+2026-01-20,Transport,Expense,-25.63
+2026-01-20,Groceries,Expense,-6.91
+2026-01-21,Bills & Utilities,Expense,-68.92
+2026-01-26,Transport,Expense,-70.53
+2026-01-26,Transfers Out,Expense,-562.5
+2026-01-29,Transport,Expense,-3.0
+2026-01-29,Transport,Expense,-3.0
+2026-01-30,Transport,Expense,-3.0
+2026-01-30,Transport,Expense,-3.0
+2026-01-30,Transport,Expense,-3.0
+2026-01-30,Transport,Expense,-3.0
+2026-02-02,Groceries,Expense,-4.25
+2026-02-05,Transport,Expense,-3.0
+2026-02-09,Income / Transfers In,Income,59.66
+2026-02-10,Groceries,Expense,-1.29
+2026-02-12,Groceries,Expense,-61.65
+2026-02-12,Transport,Expense,-3.0
+2026-02-12,Transport,Expense,-3.0
+2026-02-17,Groceries,Income,61.65
+2026-02-17,Income / Transfers In,Income,18.43
+2026-02-17,Income / Transfers In,Income,18.43
+2026-02-17,Subscription,Expense,-2.99
+2026-02-18,Bills & Utilities,Expense,-73.73
+2026-02-19,Transfers Out,Expense,-125.0
+2026-02-19,Transport,Expense,-3.0
+2026-02-19,Transport,Expense,-3.0
+2026-02-26,Transport,Expense,-3.0
+2026-02-26,Transport,Expense,-3.0
+2026-02-26,Transfers Out,Expense,-125.73
+2026-02-27,Transfers Out,Expense,-550.0
+2026-03-02,Income / Transfers In,Income,35.0
+2026-03-03,Income / Transfers In,Income,21.8
+2026-03-05,Transport,Expense,-3.0
+2026-03-05,Transport,Expense,-3.0
+2026-03-09,Groceries,Expense,-3.5
